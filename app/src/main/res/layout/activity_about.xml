@@ -41,7 +41,7 @@
         android:layout_marginTop="8dp"
         android:autoLink="all"
         android:gravity="center_horizontal"
-        android:text="github.com/leon0516\nleon860516@gmail.com"
+        android:text="github.com/leon0516/LocationLogger\nleon860516@gmail.com"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"></TextView>
