@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="locationlogger"></dbname>
+
+    <version value="1"></version>
+
+    <list>
+        <mapping class="pub.sharecode.leon.locationlogger.model.LocationData"></mapping>
+    </list>
+</litepal>
